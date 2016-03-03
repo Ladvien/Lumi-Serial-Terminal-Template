@@ -7,3 +7,6 @@ c:\users\user\documents\visual studio 2015\Projects\Lumi_Uploader_for_TinySafeBo
 c:\users\user\documents\visual studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi_Uploader_for_TinySafeBoot\bin\Debug\Lumi_Uploader_for_TinySafeBoot.pdb
 c:\users\user\documents\visual studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi_Uploader_for_TinySafeBoot\obj\Debug\Lumi_Uploader_for_TinySafeBoot.exe
 c:\users\user\documents\visual studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi_Uploader_for_TinySafeBoot\obj\Debug\Lumi_Uploader_for_TinySafeBoot.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi-Serial-Terminal-Template\bin\Debug\Lumi_Uploader_for_TinySafeBoot.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi-Serial-Terminal-Template\obj\Debug\Lumi_Uploader_for_TinySafeBoot.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi-Serial-Terminal-Template\obj\Debug\Lumi_Uploader_for_TinySafeBoot.pdb
