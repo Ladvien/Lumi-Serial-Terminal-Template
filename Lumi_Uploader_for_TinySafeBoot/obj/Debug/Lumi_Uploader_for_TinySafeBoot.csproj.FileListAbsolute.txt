@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi_Uploader_for_TinySafeBoot\bin\Debug\Lumi_Uploader_for_TinySafeBoot.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi_Uploader_for_TinySafeBoot\obj\Debug\Lumi_Uploader_for_TinySafeBoot.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi_Uploader_for_TinySafeBoot\obj\Debug\HM_1X_Aid_v01.MainDisplay.resources
+c:\users\user\documents\visual studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi_Uploader_for_TinySafeBoot\obj\Debug\Lumi_Uploader_for_TinySafeBoot.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi_Uploader_for_TinySafeBoot\obj\Debug\Lumi_Uploader_for_TinySafeBoot.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi_Uploader_for_TinySafeBoot\bin\Debug\Lumi_Uploader_for_TinySafeBoot.exe
+c:\users\user\documents\visual studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi_Uploader_for_TinySafeBoot\bin\Debug\Lumi_Uploader_for_TinySafeBoot.pdb
+c:\users\user\documents\visual studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi_Uploader_for_TinySafeBoot\obj\Debug\Lumi_Uploader_for_TinySafeBoot.exe
+c:\users\user\documents\visual studio 2015\Projects\Lumi_Uploader_for_TinySafeBoot\Lumi_Uploader_for_TinySafeBoot\obj\Debug\Lumi_Uploader_for_TinySafeBoot.pdb
